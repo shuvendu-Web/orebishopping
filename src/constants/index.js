@@ -51,16 +51,16 @@ export const SplOfferData = [
     price: "35.00",
     color: "Blank and White",
     badge: true,
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
+    des: "Stay cool and stylish with our Fan Cap for Boys – the perfect blend of fashion and comfort. Designed with a built-in mini fan.",
   },
   {
     _id: "202",
     img: newArrFour,
-    productName: "Tea Table",
+    productName: "Smart Tea Table",
     price: "180.00",
     color: "Gray",
     badge: true,
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
+    des: "The Smart Tea Table is a modern fusion of elegance and technology, designed to make your tea time smarter and more enjoyable.",
   },
   {
     _id: "203",
@@ -74,11 +74,11 @@ export const SplOfferData = [
   {
     _id: "204",
     img: spfFour,
-    productName: "Sun glasses",
+    productName: "Smart Sun glasses",
     price: "220.00",
     color: "Black",
     badge: true,
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
+    des: "Smart Sunglasses combine style with cutting-edge technology, giving you more than just eye protection. Featuring polarized UV400 lenses,",
   },
 ];
 // =================== Special Offer data End here ==============
@@ -93,16 +93,16 @@ export const paginationItems = [
     price: "35.00",
     color: "Blank and White",
     badge: true,
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
+    des: "Stay cool and stylish with our Fan Cap for Boys – the perfect blend of fashion and comfort. Designed with a built-in mini fan.",
   },
   {
     _id: 1002,
     img: spfTwo,
-    productName: "Tea Table",
+    productName: "Smart Tea Table",
     price: "180.00",
     color: "Gray",
     badge: true,
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
+    des: "The Smart Tea Table is a modern fusion of elegance and technology, designed to make your tea time smarter and more enjoyable.",
   },
   {
     _id: 1003,
@@ -116,11 +116,11 @@ export const paginationItems = [
   {
     _id: 1004,
     img: spfFour,
-    productName: "Sun glasses",
+    productName: "Smart Sun glasses",
     price: "220.00",
     color: "Black",
     badge: true,
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
+    des: "Smart Sunglasses combine style with cutting-edge technology, giving you more than just eye protection. Featuring polarized UV400 lenses,",
   },
   {
     _id: 1005,
@@ -279,11 +279,11 @@ export const paginationItems = [
   {
     _id: 1022,
     img: spfFour,
-    productName: "Sun glasses",
+    productName: "Smart Sun glasses",
     price: "220.00",
     color: "Black",
     badge: true,
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
+    des: "Smart Sunglasses combine style with cutting-edge technology, giving you more than just eye protection. Featuring polarized UV400 lenses,",
   },
   {
     _id: 1023,
@@ -301,16 +301,16 @@ export const paginationItems = [
     price: "35.00",
     color: "Blank and White",
     badge: true,
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
+    des: "Stay cool and stylish with our Fan Cap for Boys – the perfect blend of fashion and comfort. Designed with a built-in mini fan.",
   },
   {
     _id: 1025,
     img: spfTwo,
-    productName: "Tea Table",
+    productName: "Smart Tea Table",
     price: "180.00",
     color: "Gray",
     badge: true,
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
+    des: "The Smart Tea Table is a modern fusion of elegance and technology, designed to make your tea time smarter and more enjoyable.",
   },
   {
     _id: 1026,
@@ -324,11 +324,11 @@ export const paginationItems = [
   {
     _id: 1027,
     img: spfFour,
-    productName: "Sun glasses",
+    productName: "Smart Sun glasses",
     price: "220.00",
     color: "Black",
     badge: true,
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
+    des: "Smart Sunglasses combine style with cutting-edge technology, giving you more than just eye protection. Featuring polarized UV400 lenses,",
   },
   {
     _id: 1028,
@@ -477,11 +477,11 @@ export const paginationItems = [
   {
     _id: 1044,
     img: spfFour,
-    productName: "Sun glasses",
+    productName: "Smart Sun glasses",
     price: "220.00",
     color: "Black",
     badge: true,
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
+    des: "Smart Sunglasses combine style with cutting-edge technology, giving you more than just eye protection. Featuring polarized UV400 lenses,",
   },
   {
     _id: 1045,
@@ -499,7 +499,7 @@ export const paginationItems = [
     price: "35.00",
     color: "Blank and White",
     badge: true,
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
+    des: "Stay cool and stylish with our Fan Cap for Boys – the perfect blend of fashion and comfort. Designed with a built-in mini fan.",
   },
 ];
 // =================== PaginationItems End here =================

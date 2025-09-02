@@ -1,11 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import {
-  saleImgOne,
-  saleImgTwo,
-  saleImgThree,
+
 } from "../../../assets/images/index";
 import Image from "../../designLayouts/Image";
+import saleImgOne from "../../../assets/images/sale/saleImgOne.png";
+import saleImgTwo from "../../../assets/images/sale/saleImgTwo.png";
+import saleImgThree from "../../../assets/images/sale/saleImgThree.png";
 
 const Sale = () => {
   return (
