@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff0ecfc5.css",
+    "main.js": "/static/js/main.7de6d5c4.js",
+    "static/media/logoLight.png": "/static/media/logoLight.5890b3a47bf3581874ae.png",
+    "static/media/orebiLogo.png": "/static/media/orebiLogo.0ca0d71975e495018499.png",
+    "static/media/saleImgOne.png": "/static/media/saleImgOne.8961bc0a493318edba27.png",
+    "static/media/bannerImgThree.webp": "/static/media/bannerImgThree.21e6952ebbf8567a936b.webp",
+    "static/media/bannerImgTwo.webp": "/static/media/bannerImgTwo.d6aae4dfb68f9456f54e.webp",
+    "static/media/productOfTheYear.jpg": "/static/media/productOfTheYear.eca71158d4b88520e335.jpg",
+    "static/media/bannerImgOne.webp": "/static/media/bannerImgOne.7aad2d2d7b41225993f7.webp",
+    "static/media/spfTwo.jpg": "/static/media/spfTwo.52fd81eec64c06ff797c.jpg",
+    "static/media/saleImgTwo.webp": "/static/media/saleImgTwo.ecb733524e878406c281.webp",
+    "static/media/saleImgThree.png": "/static/media/saleImgThree.b3b53c4a10c24a6dd116.png",
+    "static/media/saleImgTwo.png": "/static/media/saleImgTwo.4bbb8af3d49bffab2373.png",
+    "static/media/spfOne.jpg": "/static/media/spfOne.2dc3d6a9a78b62ba9d23.jpg",
+    "static/media/newArrThree.webp": "/static/media/newArrThree.137dcefaee781098fd8a.webp",
+    "static/media/payment.png": "/static/media/payment.3e00cc601c9e7fc1e7d3.png",
+    "static/media/productOfTheYear.webp": "/static/media/productOfTheYear.2c30f10b51873bab4630.webp",
+    "static/media/saleImgOne.webp": "/static/media/saleImgOne.5fd9a91421b8b3d52f04.webp",
+    "static/media/bestSellerThree.webp": "/static/media/bestSellerThree.8caffcd1cd1c67b4a340.webp",
+    "static/media/saleImgThree.webp": "/static/media/saleImgThree.7f55d28e41e547163b6c.webp",
+    "static/media/newArrFour.webp": "/static/media/newArrFour.b8a5fda6839f2f0b1eaa.webp",
+    "static/media/bestSellerTwo.webp": "/static/media/bestSellerTwo.c2641a76c189fcc71670.webp",
+    "static/media/bestSellerFour.webp": "/static/media/bestSellerFour.0b34fdc5232f2dcf997b.webp",
+    "static/media/bestSellerOne.webp": "/static/media/bestSellerOne.988208d74cc332fccc11.webp",
+    "static/media/emptyCart.png": "/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "static/media/spfThree.webp": "/static/media/spfThree.226da6ea085a91db0352.webp",
+    "static/media/spfFour.webp": "/static/media/spfFour.d005441cba54d7214bf7.webp",
+    "static/media/newArrTwo.webp": "/static/media/newArrTwo.bdc7d9372116bdf40cc4.webp",
+    "static/media/newArrOne.webp": "/static/media/newArrOne.5982a995e5c312914fe6.webp",
+    "index.html": "/index.html",
+    "main.ff0ecfc5.css.map": "/static/css/main.ff0ecfc5.css.map",
+    "main.7de6d5c4.js.map": "/static/js/main.7de6d5c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0ecfc5.css",
+    "static/js/main.7de6d5c4.js"
+  ]
+}
